@@ -32,7 +32,3 @@ Una práctica desarrollada en **HTML, CSS y PHP** para la gestión de cursos y p
 1. **Servidor web** compatible con PHP (por ejemplo, XAMPP, WAMP o LAMP).  
 2. **MySQL** o cualquier gestor de base de datos compatible.  
 
-### Pasos  
-1. Clona este repositorio:  
-   ```bash
-   git clone https://github.com/Robinjaquez/Practica-Cursos-PHP
