@@ -35,4 +35,4 @@ Una práctica desarrollada en **HTML, CSS y PHP** para la gestión de cursos y p
 ### Pasos  
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/gestion-cursos.git
+   git clone https://github.com/Robinjaquez/Practica-Cursos-PHP
