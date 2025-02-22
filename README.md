@@ -1,4 +1,4 @@
-# 📚 Gestión de Cursos  
+# 📚 Gestión de Cursos  En PHP
 
 Una práctica desarrollada en **HTML, CSS y PHP** para la gestión de cursos y participantes. Permite a los usuarios registrarse, inscribirse y gestionar cursos, además de ofrecer funcionalidades específicas para administradores.  
 
